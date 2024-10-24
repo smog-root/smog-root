@@ -11,8 +11,6 @@
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/4.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/6.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/7.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/8.png?raw=true" width="100px" height="100px" />
 </div>
 
 ## ⚜️ Badges:

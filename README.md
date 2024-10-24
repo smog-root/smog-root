@@ -4,7 +4,7 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png?raw=true" width="100px" height="100px" />
+<img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/postman.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />

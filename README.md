@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/886517832131686471) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smogshashank) 
 
-## GSSOC(24) Badges 🪶
+## GSSOC-EXTD(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/postman.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png?raw=true" width="100px" height="100px" />

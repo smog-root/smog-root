@@ -11,6 +11,7 @@
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/4.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/6.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/7.png?raw=true" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
